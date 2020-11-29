@@ -1,0 +1,6 @@
+sms:
+  enabled: true
+targets:
+  - url: https://www.overclockers.co.uk/pny-nvidia-tesla-volta-v100-16gb-pcie-gpu-accelerator-card-5120-cuda-cores-gx-06a-pn.html
+    limit: 5
+    selector: input#basketButton
